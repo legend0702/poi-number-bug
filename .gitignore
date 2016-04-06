@@ -1,9 +1,21 @@
 *.class
 
-# Package Files #
+# Package Files 
 *.jar
 *.war
 *.ear
 /build/
 /target/
-.settings
+
+# Log 
+logs/
+*.log
+
+# IDEA 
+.idea/
+*.iml
+
+# Eclipse 
+.settings/
+.classpath
+.project
